@@ -1,16 +1,28 @@
-## Hi there 👋
+<div>
+    <img src="Hussain Ismailzada.png" alt="css-in-readme" width="100%">
+</div>
 
-<!--
-**hussainIsmailzada/hussainIsmailzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>About Me
+</h2>
 
-Here are some ideas to get you started:
+Studying Computer Science at Wilfrid Laurier University✍<br>
+Passionate about software engineering and designing engaging programs🔋📈<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>
+  Tech Stack
+</h2>
+
+<p>
+  <img alt=Python src= "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt=Java src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt=Javascript src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt=Node.js src= "https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
+</p>
+
+<h2>Lets connect</h2>
+
+<p>
+    <p><a href="https://www.linkedin.com/in/hussain-ismailzada-77620b33b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a></p>
+</p>
+
+📥hussain.ismailzada@icloud.com <br>
